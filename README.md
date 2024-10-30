@@ -1,6 +1,6 @@
 # **App Agenda**
 
-> Aplicativo que cadastra e lista seus usuários.
+> Aplicativo que cadastra e lista usuários.
 
 ## 📱 Descrição
 
@@ -9,7 +9,8 @@ O **App Agenda** solicita a entrada de dados e lista-os na tela principal.
 ## 🔧 Funcionalidades
 
 - [x] Entrada de dados (Nome, CPF e Telefone)
-- [x] Pesquisa de usuários
+- [x] Cadastro de usuário
+- [x] Pesquisa de usuário
 - [x] Interface simples e intuitiva
 
 ## 🚀 Tecnologias Utilizadas
@@ -96,13 +97,13 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
  
  ## 🖥️ Telas do Aplicativo
 
-1. **Tela Principal**
+## 1. Tela Principal
    
    Tela principal do app, onde é possivel ver os cadastros e pesquisar por eles.
    
 ![Texto Alternativo](https://github.com/Kist19/AppAgenda/blob/master/lista.jpg?raw=true) ![Texto Alternativo](https://github.com/Kist19/AppAgenda/blob/master/pesquisadalista.jpg?raw=true)
 
-1. **Tela Cadastro**
+## 2. Tela Cadastro
    
    Onde o cadastro é criado para ser apresentado na tela principal.
    
