@@ -97,7 +97,13 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
 
 1. **Tela Principal**
    
-![Texto Alternativo](https://github.com/Kist19/AppConsumoEletronico/blob/master/telaprincipal.png?raw=true) ![Texto Alternativo](https://github.com/Kist19/AppConsumoEletronico/blob/master/resultado.png?raw=true)
+![Texto Alternativo]() ![Texto Alternativo]()
+
+Entrada de dados (Potencia, TempoDeUso e Preco), subsequente o cálculo e a apresentação do resultado.
+
+1. **Tela Cadastro**
+   
+![Texto Alternativo]()
 
 Entrada de dados (Potencia, TempoDeUso e Preco), subsequente o cálculo e a apresentação do resultado.
 
@@ -105,4 +111,4 @@ Entrada de dados (Potencia, TempoDeUso e Preco), subsequente o cálculo e a apre
 
 **Arthur Kist** - Desenvolvedor - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kist19) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-kist-34b176254/) [![linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kist_19_/)
 
-**Licença** - [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Kist19/AppConsumoEletronico/blob/master/LICENSE)
+**Licença** - [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Kist19/AppAgenda/blob/master/LICENSE)
