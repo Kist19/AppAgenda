@@ -1,14 +1,15 @@
-# **App Consumo Eletronico**
+# **App Agenda**
 
-> Aplicativo que faz o calculo de consumo de energia e o consumo associado.
+> Aplicativo que cadastra e lista seus usuários.
 
 ## 📱 Descrição
 
-O **App Consumo Eletrônico** solicita a entrada de dados para realizar os cálculos necessários.
+O **App Agenda** solicita a entrada de dados e lista-os na tela principal.
 
 ## 🔧 Funcionalidades
 
-- [x] Entrada de dados (Potencia, TempoDeUso e Preço)
+- [x] Entrada de dados (Nome, CPF e Telefone)
+- [x] Pesquisa de usuários
 - [x] Interface simples e intuitiva
 
 ## 🚀 Tecnologias Utilizadas
@@ -16,8 +17,8 @@ O **App Consumo Eletrônico** solicita a entrada de dados para realizar os cálc
 - [x] **Android Studio** (Koala | 2024.1.2)
 - [x] **Java** para desenvolvimento
 - [x] **ConstraintLayout** para interface responsiva
-- [x] **TextView**, **EditText** e **AlertDialog** para entrada e exibição de dados
-- [x] **Button**   para realizar os cálculos
+- [x] **TextView**, **EditText**, **ListView** para entrada e exibição de dados
+- [x] **Menu** para cadastrar e pesquisar usuário
 
 ## 🛠️ Como Rodar o Projeto
 
@@ -97,18 +98,20 @@ O design é minimalista e fácil de usar, com foco na simplicidade.
 
 1. **Tela Principal**
    
-![Texto Alternativo]() ![Texto Alternativo]()
-
-Entrada de dados (Potencia, TempoDeUso e Preco), subsequente o cálculo e a apresentação do resultado.
+   Tela principal do app, onde é possivel ver os cadastros e pesquisar por eles.
+   
+![Texto Alternativo](https://github.com/Kist19/AppAgenda/blob/master/lista.jpg?raw=true) ![Texto Alternativo](https://github.com/Kist19/AppAgenda/blob/master/pesquisadalista.jpg?raw=true)
 
 1. **Tela Cadastro**
    
-![Texto Alternativo]()
+   Onde o cadastro é criado para ser apresentado na tela principal.
+   
+![Texto Alternativo](https://github.com/Kist19/AppAgenda/blob/master/cadastro.jpg?raw=true)
 
-Entrada de dados (Potencia, TempoDeUso e Preco), subsequente o cálculo e a apresentação do resultado.
-
-## 👨‍💻 Desenvolvedores –
+## 👨‍💻 Desenvolvedores
 
 **Arthur Kist** - Desenvolvedor - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kist19) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-kist-34b176254/) [![linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kist_19_/)
 
-**Licença** - [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Kist19/AppAgenda/blob/master/LICENSE)
+ ## ✅ Licença 
+ 
+ [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Kist19/AppAgenda/blob/master/LICENSE)
