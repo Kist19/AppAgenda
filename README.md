@@ -1,6 +1,6 @@
 # **App Agenda**
 
-> Aplicativo que cadastra e lista usuários.
+> Aplicativo que realiza o cadastro e lista usuários.
 
 ## 📱 Descrição
 
@@ -11,6 +11,7 @@ O **App Agenda** solicita a entrada de dados e lista-os na tela principal.
 - [x] Entrada de dados (Nome, CPF e Telefone)
 - [x] Cadastro de usuário
 - [x] Pesquisa de usuário
+- [x] Lista de usuários
 - [x] Interface simples e intuitiva
 
 ## 🚀 Tecnologias Utilizadas
@@ -39,55 +40,22 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 ```bash
 ├── app
-
-
 │   ├── src
-
-
 │   │   ├── main
-
-
-│   │   │   ├──
-java/com/example/imccalculator
-
-
-│   │   │  
-│   ├── MainActivity.java      
-# Atividade principal com cálculo do IMC
-
-
-│   │   │   ├──
-res
-
-
-│   │   │  
-│   ├── layout
-
-
-│   │   │  
-│   │   ├── activity_main.xml   #
-Layout da tela principal
-
-
-│   │   │  
-│   └── values
-
-
-│   │   │  
-│       ├──
-strings.xml         # Strings usadas no
-app
-
-
-│   │   │  
-│       ├── colors.xml          # Cores definidas no projeto
-
-
-│   └── build.gradle                        # Configuração do
-Gradle
-
-
-└── README.md                               # Este arquivo
+│   │   │  ├── java/br/ulbra/appagenda
+│   │   │  │  ├── MainActivity.java        # Atividade principal com AppAgenda
+│   │   │  │  ├── Conexao.java
+│   │   │  │  ├── ListarPessoasActivity.java
+│   │   │  │  ├── Pessoa.java
+│   │   │  │  ├── PessoaDAO.java
+│   │   │  ├── res
+│   │   │  │   ├── layout
+│   │   │  │   │   ├── activity_main.xml  #Layout da tela principal
+│   │   │  │   └── values
+│   │   │  │       ├── strings.xml        # Strings usadas no app
+│   │   │  │       ├── colors.xml         # Cores definidas no projeto
+│   └── build.gradle                      # Configuração do Gradle
+└── README.md                             # Este arquivo
 ```
 ## 🎨 Design e Prototipagem
  
