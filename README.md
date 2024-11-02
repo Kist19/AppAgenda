@@ -43,7 +43,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 │   ├── src
 │   │   ├── main
 │   │   │  ├── java/br/ulbra/appagenda
-│   │   │  │  ├── MainActivity.java        # Atividade principal com AppAgenda
+│   │   │  │  ├── MainActivity.java       # Atividade principal com AppAgenda
 │   │   │  │  ├── Conexao.java
 │   │   │  │  ├── ListarPessoasActivity.java
 │   │   │  │  ├── Pessoa.java
